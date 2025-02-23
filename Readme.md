@@ -5,6 +5,11 @@
  [Git](https://git-scm.com/downloads/win)
  
 
-...sh
-...
+# Git
+''' sh
+git init
+git add.
+git commit -m "add message"
+git push -u origin master
+'''
 ---
