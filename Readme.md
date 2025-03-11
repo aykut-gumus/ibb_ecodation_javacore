@@ -32,6 +32,18 @@ Javada her biten kelime ; ile bitirmek zorundayız.
 ```
 ---
 
+## Java Core Information
+```sh
+Java case sensitive bir dildir. (Küçük büyük harfe duyarlı yüksek seviyede bir dildir.)
+```
+---
+
+## Java Core
+```sh
+
+```
+---
+
 ## Java Core
 ```sh
 
