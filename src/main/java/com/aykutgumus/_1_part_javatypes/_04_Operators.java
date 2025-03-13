@@ -15,7 +15,6 @@ public class _04_Operators {
         int division = number1/number2;
         int modules = number1%number2;
 
-
         System.out.println("Toplam: "+addition);
         System.out.println("Çıkarma: "+substraction);
         System.out.println("Çarpma: "+multiplication);
