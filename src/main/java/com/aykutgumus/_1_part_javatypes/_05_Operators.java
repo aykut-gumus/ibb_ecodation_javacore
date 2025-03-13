@@ -1,6 +1,6 @@
 package com.aykutgumus._1_part_javatypes;
 
-public class _04_Operators {
+public class _05_Operators {
 
     public static void main(String[] args) {
         // operator

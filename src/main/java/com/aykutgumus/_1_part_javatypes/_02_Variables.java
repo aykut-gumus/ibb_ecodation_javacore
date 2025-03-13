@@ -49,6 +49,5 @@ public class _02_Variables {
         // SABİT
         final int MAX_STUDENTS=100;
         System.out.println(MAX_STUDENTS);
-
     }
 }
